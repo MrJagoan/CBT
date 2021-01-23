@@ -15,3 +15,4 @@ cd CBT
 python2 main.py
 
 # And Happy Hacking
+# Buatan BAYU Ganteng
